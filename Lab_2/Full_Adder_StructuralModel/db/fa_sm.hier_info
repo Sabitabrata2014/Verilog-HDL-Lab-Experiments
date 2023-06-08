@@ -1,0 +1,32 @@
+|fa_sm
+a => a.IN1
+b => b.IN1
+ci => ci.IN1
+s << ha:i2.port2
+co << or_m:i3.port2
+
+
+|fa_sm|ha:i1
+x => sm.IN0
+x => cy.IN0
+y => sm.IN1
+y => cy.IN1
+sm <= sm.DB_MAX_OUTPUT_PORT_TYPE
+cy <= cy.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|fa_sm|ha:i2
+x => sm.IN0
+x => cy.IN0
+y => sm.IN1
+y => cy.IN1
+sm <= sm.DB_MAX_OUTPUT_PORT_TYPE
+cy <= cy.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|fa_sm|or_m:i3
+p => r.IN0
+q => r.IN1
+r <= r.DB_MAX_OUTPUT_PORT_TYPE
+
+

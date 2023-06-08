@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_2/Full_Adder_DataFlowModel/simulation/modelsim
+vfa_dfm
+Z1 !s110 1686047693
+!i10b 1
+!s100 YzZ4kaWhW7[nXI<7TH4Pk0
+IOXQM[hC[V4:[`En`Y8>Ea0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1685681103
+8D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_2/Full_Adder_DataFlowModel/fa_dfm.v
+FD:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_2/Full_Adder_DataFlowModel/fa_dfm.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1686047693.000000
+!s107 D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_2/Full_Adder_DataFlowModel/fa_dfm.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_2/Full_Adder_DataFlowModel|D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_2/Full_Adder_DataFlowModel/fa_dfm.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_2/Full_Adder_DataFlowModel
+Z7 tCvgOpt 0
+vfa_dfm_tb
+R1
+!i10b 1
+!s100 ]:Pe9NE9z2a3jVfef2ZEV2
+IL>AZ7^:<^_ZI8FfT=Gk2=1
+R2
+R0
+w1685681612
+8D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_2/Full_Adder_DataFlowModel/fa_dfm_tb.v
+FD:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_2/Full_Adder_DataFlowModel/fa_dfm_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_2/Full_Adder_DataFlowModel/fa_dfm_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_2/Full_Adder_DataFlowModel|D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_2/Full_Adder_DataFlowModel/fa_dfm_tb.v|
+!i113 1
+R5
+R6
+R7

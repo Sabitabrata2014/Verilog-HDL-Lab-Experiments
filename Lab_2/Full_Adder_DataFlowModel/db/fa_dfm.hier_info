@@ -1,0 +1,14 @@
+|fa_dfm
+a => s.IN0
+a => co.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+b => co.IN0
+ci => s.IN1
+ci => co.IN1
+ci => co.IN1
+s << s.DB_MAX_OUTPUT_PORT_TYPE
+co << co.DB_MAX_OUTPUT_PORT_TYPE
+
+

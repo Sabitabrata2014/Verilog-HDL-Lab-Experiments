@@ -1,0 +1,98 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_2/Full_Adder_StructuralModel/simulation/modelsim
+vfa_sm
+Z1 !s110 1685688394
+!i10b 1
+!s100 `>5hKZEe@zmc<[32?ecCX3
+I:OQkUC2LSWCPEO<4[bIXP2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1685688071
+8D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_2/Full_Adder_StructuralModel/fa_sm.v
+FD:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_2/Full_Adder_StructuralModel/fa_sm.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1685688394.000000
+!s107 D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_2/Full_Adder_StructuralModel/fa_sm.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_2/Full_Adder_StructuralModel|D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_2/Full_Adder_StructuralModel/fa_sm.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_2/Full_Adder_StructuralModel
+Z7 tCvgOpt 0
+vfa_sm_tb
+R1
+!i10b 1
+!s100 9oKW^z@ei`0:ISAXD7mg72
+I4[fjD7i[H_>H9F?IIN^lm3
+R2
+R0
+w1685688286
+8D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_2/Full_Adder_StructuralModel/fa_sm_tb.v
+FD:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_2/Full_Adder_StructuralModel/fa_sm_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_2/Full_Adder_StructuralModel/fa_sm_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_2/Full_Adder_StructuralModel|D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_2/Full_Adder_StructuralModel/fa_sm_tb.v|
+!i113 1
+R5
+R6
+R7
+vha
+R1
+!i10b 1
+!s100 >jQ;<V5DgOJn6dSFdgQW01
+I_BlkFX0hH6_T6QWU65Xk02
+R2
+R0
+w1685687832
+8D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_2/Full_Adder_StructuralModel/ha.v
+FD:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_2/Full_Adder_StructuralModel/ha.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_2/Full_Adder_StructuralModel/ha.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_2/Full_Adder_StructuralModel|D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_2/Full_Adder_StructuralModel/ha.v|
+!i113 1
+R5
+R6
+R7
+vor_m
+R1
+!i10b 1
+!s100 e8PM>bgR@82J=8ekL55ol3
+ITT51b;R?<zH[?IjXH>Z@g0
+R2
+R0
+w1685687955
+8D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_2/Full_Adder_StructuralModel/or_m.v
+FD:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_2/Full_Adder_StructuralModel/or_m.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_2/Full_Adder_StructuralModel/or_m.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_2/Full_Adder_StructuralModel|D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_2/Full_Adder_StructuralModel/or_m.v|
+!i113 1
+R5
+R6
+R7

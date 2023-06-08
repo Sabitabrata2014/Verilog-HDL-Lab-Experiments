@@ -1,0 +1,77 @@
+# Reading D:/Quartus_install/intelFPGA_lite/18.0/modelsim_ase/tcl/vsim/pref.tcl
+# do fa_sm_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying D:/Quartus_install/intelFPGA_lite/18.0/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_2/Full_Adder_StructuralModel {D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_2/Full_Adder_StructuralModel/ha.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 12:16:34 on Jun 02,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_2/Full_Adder_StructuralModel" D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_2/Full_Adder_StructuralModel/ha.v 
+# -- Compiling module ha
+# 
+# Top level modules:
+# 	ha
+# End time: 12:16:34 on Jun 02,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_2/Full_Adder_StructuralModel {D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_2/Full_Adder_StructuralModel/or_m.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 12:16:34 on Jun 02,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_2/Full_Adder_StructuralModel" D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_2/Full_Adder_StructuralModel/or_m.v 
+# -- Compiling module or_m
+# 
+# Top level modules:
+# 	or_m
+# End time: 12:16:34 on Jun 02,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_2/Full_Adder_StructuralModel {D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_2/Full_Adder_StructuralModel/fa_sm.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 12:16:34 on Jun 02,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_2/Full_Adder_StructuralModel" D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_2/Full_Adder_StructuralModel/fa_sm.v 
+# -- Compiling module fa_sm
+# 
+# Top level modules:
+# 	fa_sm
+# End time: 12:16:34 on Jun 02,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_2/Full_Adder_StructuralModel {D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_2/Full_Adder_StructuralModel/fa_sm_tb.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 12:16:34 on Jun 02,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_2/Full_Adder_StructuralModel" D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_2/Full_Adder_StructuralModel/fa_sm_tb.v 
+# -- Compiling module fa_sm_tb
+# 
+# Top level modules:
+# 	fa_sm_tb
+# End time: 12:16:34 on Jun 02,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L fiftyfivenm_ver -L rtl_work -L work -voptargs="+acc"  fa_sm_tb
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L fiftyfivenm_ver -L rtl_work -L work -voptargs=""+acc"" fa_sm_tb 
+# Start time: 12:16:34 on Jun 02,2023
+# Loading work.fa_sm_tb
+# Loading work.fa_sm
+# Loading work.ha
+# Loading work.or_m
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# 00110
+# 01010
+# 01101
+# 10010
+# 10101
+# 11001
+# 11111
+# End time: 12:17:28 on Jun 02,2023, Elapsed time: 0:00:54
+# Errors: 0, Warnings: 0

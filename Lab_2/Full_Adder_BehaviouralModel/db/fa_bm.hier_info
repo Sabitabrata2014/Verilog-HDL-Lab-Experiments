@@ -1,0 +1,8 @@
+|fa_bm
+din[0] => Decoder0.IN2
+din[1] => Decoder0.IN1
+din[2] => Decoder0.IN0
+dout[0] << WideOr1.DB_MAX_OUTPUT_PORT_TYPE
+dout[1] << WideOr0.DB_MAX_OUTPUT_PORT_TYPE
+
+

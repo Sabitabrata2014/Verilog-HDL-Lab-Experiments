@@ -1,0 +1,24 @@
+module dec3to8_tb; 
+
+reg en;
+reg [3:0]a; 
+wire [7:0]y; 
+
+dec3to8 DUT(en,a,y);
+ 
+initial begin 
+
+$monitor (en,a,y); 
+
+en=1;a=3'b000; #100; 
+en=1;a=3'b001; #100; 
+en=1;a=3'b010; #100; 
+en=1;a=3'b011; #100; 
+en=0;a=3'b100; #100;
+en=1;a=3'b100; #100;
+en=1;a=3'b101; #100;
+en=1;a=3'b110; #100;
+en=1;a=3'b111; #100;
+
+end 
+endmodule

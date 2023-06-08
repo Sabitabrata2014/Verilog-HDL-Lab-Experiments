@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_4/Decoder/simulation/modelsim
+vdec3to8
+Z1 !s110 1686135465
+!i10b 1
+!s100 VJoA<Q]7dOmMBM`;Ub_Yo3
+IdYfodd<MfG3`;Q:nJlCc80
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1686134299
+8D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_4/Decoder/dec3to8.v
+FD:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_4/Decoder/dec3to8.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1686135465.000000
+!s107 D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_4/Decoder/dec3to8.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_4/Decoder|D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_4/Decoder/dec3to8.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_4/Decoder
+Z7 tCvgOpt 0
+vdec3to8_tb
+R1
+!i10b 1
+!s100 l7^nXzU4iUji;dO2K@M]71
+IM:9f3A<iWEj?5L2jOme^h2
+R2
+R0
+w1686135003
+8D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_4/Decoder/dec3to8_tb.v
+FD:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_4/Decoder/dec3to8_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_4/Decoder/dec3to8_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_4/Decoder|D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_4/Decoder/dec3to8_tb.v|
+!i113 1
+R5
+R6
+R7

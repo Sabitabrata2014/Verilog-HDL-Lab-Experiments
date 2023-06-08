@@ -1,0 +1,29 @@
+module dff_m_tb; 
+
+reg d,rst,clk;
+wire q,qbar;
+
+dff_m DUT(d,rst,clk,q,qbar);
+
+always 
+
+begin
+
+#20 clk=~clk;
+
+end
+ 
+initial begin 
+
+$monitor(d,rst,clk,q,qbar); 
+
+rst=1;#100;
+
+rst=0;
+d=1; #100;
+d=0; #100;
+d=1; #120;
+d=0; #100;
+
+ end 
+ endmodule
