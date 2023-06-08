@@ -1,0 +1,13 @@
+|SR_ff
+s => Mux0.IN3
+s => Mux1.IN3
+r => Mux0.IN4
+r => Mux1.IN4
+clk => q_bar~reg0.CLK
+clk => q~reg0.CLK
+reset => q.OUTPUTSELECT
+reset => q_bar.OUTPUTSELECT
+q << q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+q_bar << q_bar~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
