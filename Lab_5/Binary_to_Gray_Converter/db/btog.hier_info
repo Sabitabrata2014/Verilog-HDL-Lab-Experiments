@@ -1,0 +1,14 @@
+|btog
+b[0] => g.IN0
+b[1] => g.IN0
+b[1] => g.IN1
+b[2] => g.IN0
+b[2] => g.IN1
+b[3] => g.IN1
+b[3] => g[3].DATAIN
+g[0] << g.DB_MAX_OUTPUT_PORT_TYPE
+g[1] << g.DB_MAX_OUTPUT_PORT_TYPE
+g[2] << g.DB_MAX_OUTPUT_PORT_TYPE
+g[3] << b[3].DB_MAX_OUTPUT_PORT_TYPE
+
+
