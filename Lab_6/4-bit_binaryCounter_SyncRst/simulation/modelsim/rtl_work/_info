@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_6/4-bit_binaryCounter_SyncRst/simulation/modelsim
+vsbc_m
+Z1 !s110 1686294846
+!i10b 1
+!s100 M8K4:Ka?8?bo`FjcVH_bT0
+IDd:fe[Wb4kRJQV64;??L[2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1686294441
+8D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_6/4-bit_binaryCounter_SyncRst/sbc_m.v
+FD:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_6/4-bit_binaryCounter_SyncRst/sbc_m.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1686294846.000000
+!s107 D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_6/4-bit_binaryCounter_SyncRst/sbc_m.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_6/4-bit_binaryCounter_SyncRst|D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_6/4-bit_binaryCounter_SyncRst/sbc_m.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_6/4-bit_binaryCounter_SyncRst
+Z7 tCvgOpt 0
+vsbc_m_tb
+R1
+!i10b 1
+!s100 _923?RB=QW85m2lGLYYzG3
+I0QilX;Mldc[J`NTPY_FTh1
+R2
+R0
+w1686294788
+8D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_6/4-bit_binaryCounter_SyncRst/sbc_m_tb.v
+FD:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_6/4-bit_binaryCounter_SyncRst/sbc_m_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_6/4-bit_binaryCounter_SyncRst/sbc_m_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_6/4-bit_binaryCounter_SyncRst|D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_6/4-bit_binaryCounter_SyncRst/sbc_m_tb.v|
+!i113 1
+R5
+R6
+R7
