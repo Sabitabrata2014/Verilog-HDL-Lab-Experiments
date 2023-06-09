@@ -1,0 +1,17 @@
+|gates
+a => d_or.IN0
+a => f_and.IN0
+a => h_xor.IN0
+a => c_not.DATAIN
+b => d_or.IN1
+b => f_and.IN1
+b => h_xor.IN1
+c_not << a.DB_MAX_OUTPUT_PORT_TYPE
+d_or << d_or.DB_MAX_OUTPUT_PORT_TYPE
+e_nor << d_or.DB_MAX_OUTPUT_PORT_TYPE
+f_and << f_and.DB_MAX_OUTPUT_PORT_TYPE
+g_nand << f_and.DB_MAX_OUTPUT_PORT_TYPE
+h_xor << h_xor.DB_MAX_OUTPUT_PORT_TYPE
+i_xnor << h_xor.DB_MAX_OUTPUT_PORT_TYPE
+
+

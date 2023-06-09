@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_1/simulation/modelsim
+vgates
+Z1 !s110 1686285890
+!i10b 1
+!s100 eM@TYURaGE2OeGMT^L5F40
+I73D2k16Q0<:>dWY>EcfkR3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1686285493
+8D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_1/gates.v
+FD:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_1/gates.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1686285890.000000
+!s107 D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_1/gates.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_1|D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_1/gates.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_1
+Z7 tCvgOpt 0
+vgates_tb
+R1
+!i10b 1
+!s100 7gA?G;3]7=cKMj15ma>LX1
+IcdESM3>L:ccY<OV>KzOIH1
+R2
+R0
+w1686285810
+8D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_1/gates_tb.v
+FD:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_1/gates_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_1/gates_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_1|D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_1/gates_tb.v|
+!i113 1
+R5
+R6
+R7
