@@ -12,29 +12,29 @@
 # 
 # vlog -vlog01compat -work work +incdir+D:/NHCE_22_23/HDL_Lab/Lab_Experiments/MUX_n_DEMUX/DEMUX {D:/NHCE_22_23/HDL_Lab/Lab_Experiments/MUX_n_DEMUX/DEMUX/demux.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 13:43:16 on Aug 01,2023
+# Start time: 14:37:05 on Aug 01,2023
 # vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/NHCE_22_23/HDL_Lab/Lab_Experiments/MUX_n_DEMUX/DEMUX" D:/NHCE_22_23/HDL_Lab/Lab_Experiments/MUX_n_DEMUX/DEMUX/demux.v 
 # -- Compiling module demux
 # 
 # Top level modules:
 # 	demux
-# End time: 13:43:16 on Aug 01,2023, Elapsed time: 0:00:00
+# End time: 14:37:05 on Aug 01,2023, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # vlog -vlog01compat -work work +incdir+D:/NHCE_22_23/HDL_Lab/Lab_Experiments/MUX_n_DEMUX/DEMUX {D:/NHCE_22_23/HDL_Lab/Lab_Experiments/MUX_n_DEMUX/DEMUX/demux_tb.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 13:43:16 on Aug 01,2023
+# Start time: 14:37:05 on Aug 01,2023
 # vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/NHCE_22_23/HDL_Lab/Lab_Experiments/MUX_n_DEMUX/DEMUX" D:/NHCE_22_23/HDL_Lab/Lab_Experiments/MUX_n_DEMUX/DEMUX/demux_tb.v 
 # -- Compiling module demux_tb
 # 
 # Top level modules:
 # 	demux_tb
-# End time: 13:43:16 on Aug 01,2023, Elapsed time: 0:00:00
+# End time: 14:37:05 on Aug 01,2023, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L fiftyfivenm_ver -L rtl_work -L work -voptargs="+acc"  demux_tb
 # vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L fiftyfivenm_ver -L rtl_work -L work -voptargs=""+acc"" demux_tb 
-# Start time: 13:43:16 on Aug 01,2023
+# Start time: 14:37:05 on Aug 01,2023
 # Loading work.demux_tb
 # Loading work.demux
 # 
@@ -49,5 +49,5 @@
 # 11xx1x
 # 12x1xx
 # 131xxx
-# End time: 13:43:58 on Aug 01,2023, Elapsed time: 0:00:42
+# End time: 14:38:21 on Aug 01,2023, Elapsed time: 0:01:16
 # Errors: 0, Warnings: 0

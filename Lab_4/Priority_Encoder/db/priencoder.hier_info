@@ -1,0 +1,25 @@
+|priencoder
+en => ~NO_FANOUT~
+i[0] => ~NO_FANOUT~
+i[1] => y.DATAA
+i[2] => y.OUTPUTSELECT
+i[2] => y.DATAA
+i[3] => y.OUTPUTSELECT
+i[3] => y.OUTPUTSELECT
+i[4] => y.OUTPUTSELECT
+i[4] => y.OUTPUTSELECT
+i[4] => y.DATAA
+i[5] => y.OUTPUTSELECT
+i[5] => y.OUTPUTSELECT
+i[5] => y.OUTPUTSELECT
+i[6] => y.OUTPUTSELECT
+i[6] => y.OUTPUTSELECT
+i[6] => y.OUTPUTSELECT
+i[7] => y.OUTPUTSELECT
+i[7] => y.OUTPUTSELECT
+i[7] => y.OUTPUTSELECT
+y[0] << y.DB_MAX_OUTPUT_PORT_TYPE
+y[1] << y.DB_MAX_OUTPUT_PORT_TYPE
+y[2] << y.DB_MAX_OUTPUT_PORT_TYPE
+
+

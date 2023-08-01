@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_4/Priority_Encoder/simulation/modelsim
+vpriencoder
+!s110 1690882196
+!i10b 1
+!s100 NQL@i0eN_V9L1o3fU0BKM0
+IDEI94VPDM1FPTAB?m]3Wn1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1690881863
+8D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_4/Priority_Encoder/priencoder.v
+FD:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_4/Priority_Encoder/priencoder.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z3 !s108 1690882196.000000
+!s107 D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_4/Priority_Encoder/priencoder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_4/Priority_Encoder|D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_4/Priority_Encoder/priencoder.v|
+!i113 1
+Z4 o-vlog01compat -work work
+Z5 !s92 -vlog01compat -work work +incdir+D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_4/Priority_Encoder
+Z6 tCvgOpt 0
+vpriencoder_tb
+!s110 1690882197
+!i10b 1
+!s100 ;1Uj;B<W;d6Fcgk]<LfI[2
+IGh9FZZShIIf`994185Ych0
+R1
+R0
+w1690882137
+8D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_4/Priority_Encoder/priencoder_tb.v
+FD:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_4/Priority_Encoder/priencoder_tb.v
+L0 1
+R2
+r1
+!s85 0
+31
+R3
+!s107 D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_4/Priority_Encoder/priencoder_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_4/Priority_Encoder|D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_4/Priority_Encoder/priencoder_tb.v|
+!i113 1
+R4
+R5
+R6

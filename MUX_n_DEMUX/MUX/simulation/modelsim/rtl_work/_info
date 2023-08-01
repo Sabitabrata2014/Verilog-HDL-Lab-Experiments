@@ -9,7 +9,7 @@ z2
 cModel Technology
 Z0 dD:/NHCE_22_23/HDL_Lab/Lab_Experiments/MUX_n_DEMUX/MUX/simulation/modelsim
 vmux4_1
-Z1 !s110 1690876545
+Z1 !s110 1690880247
 !i10b 1
 !s100 9az1YfC?Jd0Df_nNWSmOL3
 I?OY1Yf_^<OLDdTOKTdBMD2
@@ -23,7 +23,7 @@ Z3 OV;L;10.5b;63
 r1
 !s85 0
 31
-Z4 !s108 1690876545.000000
+Z4 !s108 1690880247.000000
 !s107 D:/NHCE_22_23/HDL_Lab/Lab_Experiments/MUX_n_DEMUX/MUX/mux4_1.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/NHCE_22_23/HDL_Lab/Lab_Experiments/MUX_n_DEMUX/MUX|D:/NHCE_22_23/HDL_Lab/Lab_Experiments/MUX_n_DEMUX/MUX/mux4_1.v|
 !i113 1
