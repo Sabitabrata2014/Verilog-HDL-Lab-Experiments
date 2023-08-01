@@ -9,7 +9,7 @@ z2
 cModel Technology
 Z0 dD:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_6/4-bit_binaryCounter_AsyncRst/simulation/modelsim
 vabc_m
-Z1 !s110 1686297293
+Z1 !s110 1690430615
 !i10b 1
 !s100 dOmYZ4HUeY]oOT]bRm`Fc2
 IjG>WoB@URVW:EVjHL;JM^0
@@ -23,7 +23,7 @@ Z3 OV;L;10.5b;63
 r1
 !s85 0
 31
-Z4 !s108 1686297293.000000
+Z4 !s108 1690430615.000000
 !s107 D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_6/4-bit_binaryCounter_AsyncRst/abc_m.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_6/4-bit_binaryCounter_AsyncRst|D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_6/4-bit_binaryCounter_AsyncRst/abc_m.v|
 !i113 1

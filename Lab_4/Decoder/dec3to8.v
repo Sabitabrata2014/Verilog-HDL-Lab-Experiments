@@ -1,7 +1,7 @@
 module dec3to8(en,a,y);
 
 input en;
-input [3:0]a;
+input [2:0]a;
 output [7:0]y;
 reg[7:0]y;
 

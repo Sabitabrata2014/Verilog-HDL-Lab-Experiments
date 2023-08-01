@@ -1,5 +1,5 @@
 Analysis & Elaboration report for fa_sm
-Fri Jun 02 12:15:01 2023
+Tue Jun 20 15:21:24 2023
 Quartus Prime Version 18.0.0 Build 614 04/24/2018 SJ Lite Edition
 
 
@@ -36,7 +36,7 @@ refer to the applicable agreement for further details.
 +----------------------------------------------------------------------------------+
 ; Analysis & Elaboration Summary                                                   ;
 +------------------------------------+---------------------------------------------+
-; Analysis & Elaboration Status      ; Successful - Fri Jun 02 12:15:01 2023       ;
+; Analysis & Elaboration Status      ; Successful - Tue Jun 20 15:21:24 2023       ;
 ; Quartus Prime Version              ; 18.0.0 Build 614 04/24/2018 SJ Lite Edition ;
 ; Revision Name                      ; fa_sm                                       ;
 ; Top-level Entity Name              ; fa_sm                                       ;
@@ -163,7 +163,7 @@ refer to the applicable agreement for further details.
 Info: *******************************************************************
 Info: Running Quartus Prime Analysis & Elaboration
     Info: Version 18.0.0 Build 614 04/24/2018 SJ Lite Edition
-    Info: Processing started: Fri Jun 02 12:14:51 2023
+    Info: Processing started: Tue Jun 20 15:21:05 2023
 Info: Command: quartus_map --read_settings_files=on --write_settings_files=off fa_sm -c fa_sm --analysis_and_elaboration
 Warning (18236): Number of processors has not been specified which may cause overloading on shared machines.  Set the global assignment NUM_PARALLEL_PROCESSORS in your QSF to an appropriate value for best performance.
 Info (20030): Parallel compilation is enabled and will use 4 of the 4 processors detected
@@ -179,9 +179,9 @@ Info (12127): Elaborating entity "fa_sm" for the top level hierarchy
 Info (12128): Elaborating entity "ha" for hierarchy "ha:i1" File: D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_2/Full_Adder_StructuralModel/fa_sm.v Line: 7
 Info (12128): Elaborating entity "or_m" for hierarchy "or_m:i3" File: D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_2/Full_Adder_StructuralModel/fa_sm.v Line: 9
 Info: Quartus Prime Analysis & Elaboration was successful. 0 errors, 1 warning
-    Info: Peak virtual memory: 4706 megabytes
-    Info: Processing ended: Fri Jun 02 12:15:01 2023
-    Info: Elapsed time: 00:00:10
-    Info: Total CPU time (on all processors): 00:00:10
+    Info: Peak virtual memory: 4708 megabytes
+    Info: Processing ended: Tue Jun 20 15:21:24 2023
+    Info: Elapsed time: 00:00:19
+    Info: Total CPU time (on all processors): 00:00:22
 
 

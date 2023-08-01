@@ -9,7 +9,7 @@ z2
 cModel Technology
 Z0 dD:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_3/simulation/modelsim
 valu16
-Z1 !s110 1686221437
+Z1 !s110 1688554275
 !i10b 1
 !s100 o7GH3mFDC:ennlTnCRe9<3
 IABI4n4j>GL7@Rc`=PT`6N0
@@ -23,7 +23,7 @@ Z3 OV;L;10.5b;63
 r1
 !s85 0
 31
-Z4 !s108 1686221437.000000
+Z4 !s108 1688554275.000000
 !s107 D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_3/alu16.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_3|D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_3/alu16.v|
 !i113 1

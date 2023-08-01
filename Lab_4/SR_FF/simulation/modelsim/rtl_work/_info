@@ -9,7 +9,7 @@ z2
 cModel Technology
 Z0 dD:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_4/SR_FF/simulation/modelsim
 vSR_ff
-Z1 !s110 1686215968
+Z1 !s110 1689070550
 !i10b 1
 !s100 GgPCR]=R94FPNzR;cZ@df3
 I^5?[6FS9K>5>0=UO21LTA3
@@ -23,13 +23,13 @@ Z3 OV;L;10.5b;63
 r1
 !s85 0
 31
-!s108 1686215967.000000
+Z4 !s108 1689070550.000000
 !s107 D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_4/SR_FF/SR_ff.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_4/SR_FF|D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_4/SR_FF/SR_ff.v|
 !i113 1
-Z4 o-vlog01compat -work work
-Z5 !s92 -vlog01compat -work work +incdir+D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_4/SR_FF
-Z6 tCvgOpt 0
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_4/SR_FF
+Z7 tCvgOpt 0
 n@s@r_ff
 vSR_ff_tb
 R1
@@ -46,11 +46,11 @@ R3
 r1
 !s85 0
 31
-!s108 1686215968.000000
+R4
 !s107 D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_4/SR_FF/SR_ff_tb.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_4/SR_FF|D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_4/SR_FF/SR_ff_tb.v|
 !i113 1
-R4
 R5
 R6
+R7
 n@s@r_ff_tb

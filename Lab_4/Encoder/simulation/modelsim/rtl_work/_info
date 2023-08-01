@@ -9,7 +9,7 @@ z2
 cModel Technology
 Z0 dD:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_4/Encoder/simulation/modelsim
 vencoder8_3
-Z1 !s110 1686155225
+Z1 !s110 1689068751
 !i10b 1
 !s100 YIa<ih`h^GY`jmL?VN2FQ1
 IB071AcWkk9^8EReKZhSeU1
@@ -23,13 +23,13 @@ Z3 OV;L;10.5b;63
 r1
 !s85 0
 31
-Z4 !s108 1686155225.000000
+!s108 1689068750.000000
 !s107 D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_4/Encoder/encoder8_3.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_4/Encoder|D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_4/Encoder/encoder8_3.v|
 !i113 1
-Z5 o-vlog01compat -work work
-Z6 !s92 -vlog01compat -work work +incdir+D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_4/Encoder
-Z7 tCvgOpt 0
+Z4 o-vlog01compat -work work
+Z5 !s92 -vlog01compat -work work +incdir+D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_4/Encoder
+Z6 tCvgOpt 0
 vencoder8_3_tb
 R1
 !i10b 1
@@ -45,10 +45,10 @@ R3
 r1
 !s85 0
 31
-R4
+!s108 1689068751.000000
 !s107 D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_4/Encoder/encoder8_3_tb.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_4/Encoder|D:/NHCE_22_23/HDL_Lab/Lab_Experiments/Lab_4/Encoder/encoder8_3_tb.v|
 !i113 1
+R4
 R5
 R6
-R7
