@@ -1,0 +1,13 @@
+|demux
+i => y0.DATAIN
+i => y1.DATAIN
+i => y2.DATAIN
+i => y3.DATAIN
+sel[0] => ~NO_FANOUT~
+sel[1] => ~NO_FANOUT~
+y3 << i.DB_MAX_OUTPUT_PORT_TYPE
+y2 << i.DB_MAX_OUTPUT_PORT_TYPE
+y1 << i.DB_MAX_OUTPUT_PORT_TYPE
+y0 << i.DB_MAX_OUTPUT_PORT_TYPE
+
+
